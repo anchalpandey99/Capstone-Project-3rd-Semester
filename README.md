@@ -48,7 +48,13 @@ It simulates a modern food ordering experience with real-time tracking, vendor d
 
 ---
 
-## 🛠️ Tech Stack
+<img width="1830" height="796" alt="Screenshot 2025-09-16 220406" src="https://github.com/user-attachments/assets/00306e23-f899-4b16-a704-831537d75cc8" />
+
+
+## 🛠️ <img width="1372" height="778" alt="Screenshot 2025-09-16 225134" src="https://github.com/user-attachments/assets/6b5656ed-9e28-4ff9-91ff-3c89ab2e4def" />
+<img width="1835" height="815" alt="Screenshot 2025-09-16 225046" src="https://github.com/user-attachments/assets/e59b56df-acbd-4863-b664-1582c4460e90" />
+
+Tech Stack
 
 - **Frontend:** HTML, Tailwind CSS, JavaScript (vanilla)
 - **Libraries Used:**
